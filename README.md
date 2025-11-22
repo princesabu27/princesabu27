@@ -69,6 +69,7 @@ Currently delivering impact at **MERP Systems**, where I architect, ship, and op
   <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48"/></a>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/></a>
   <a href="https://threejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="48"/></a>
+   <a href="https://www.langchain.com/langgraph"><img src="https://images.seeklogo.com/logo-png/61/1/langgraph-logo-png_seeklogo-616429.png" width="48"/></a>
 </p>
 
 ---
